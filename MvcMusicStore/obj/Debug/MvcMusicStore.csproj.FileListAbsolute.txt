@@ -1,0 +1,7 @@
+E:\TRAIN\GitHub\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.dll
+E:\TRAIN\GitHub\MvcMusicStore\MvcMusicStore\bin\MvcMusicStore.pdb
+E:\TRAIN\GitHub\MvcMusicStore\MvcMusicStore\bin\EntityFramework.dll
+E:\TRAIN\GitHub\MvcMusicStore\MvcMusicStore\bin\EntityFramework.xml
+E:\TRAIN\GitHub\MvcMusicStore\MvcMusicStore\obj\Debug\ResolveAssemblyReference.cache
+E:\TRAIN\GitHub\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+E:\TRAIN\GitHub\MvcMusicStore\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
